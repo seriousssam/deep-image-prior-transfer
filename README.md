@@ -1,4 +1,4 @@
-# deep-image-prior-transfer
+# Deep Image Prior with Transfer Learning
 
 ## Intro
 Project conducted with: Anirudh Singh Shekhawat, Aishma Raghu, Michelle Sit for CSE 253 (Neural Networks for Pattern Recognition) with Prof. Gary Cottrell.
@@ -17,7 +17,7 @@ We have implemented two of those tasks based on the original paper:
 ## Transfer Learning
 Can this set-up be used more efficiently? For example, in video data, a lot of the images are very similar to each other, and if we wanted to remove subtitles from a movie, we shouldn't have to rerun the network with random weight initialization every time.
 
-Here, we tested and confirmed the hypothesis that using the weights from the previous image train faster than randomly initialized weights. Averaging over weights of successive images also yields faster learning.
+Here, we tested and confirmed the hypothesis that using the weights from the previous image train faster than randomly initialized weights. Averaging over weights of successive images also yields faster learning (not shown).
 
 Two possible avenues for future work:
 - Using the weights of a network to encode in image can be used for image compression. In typical ML compression schemes, an autoencoder is used, with the encoder creating the compressed representation and the decoder "unpacking" it. Here the training would be the process by which the compressed representation is created, and the compressed representation would be the weights of the network.
