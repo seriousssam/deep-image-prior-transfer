@@ -23,7 +23,13 @@ Two possible avenues for future work:
 - Using the weights of a network to encode in image can be used for image compression. In typical ML compression schemes, an autoencoder is used, with the encoder creating the compressed representation and the decoder "unpacking" it. Here the training would be the process by which the compressed representation is created, and the compressed representation would be the weights of the network.
 - Using DARTS (Differentiable Architecture Search: https://arxiv.org/abs/1806.09055) to learn a network that trains faster for new images in a long sequence of images
 
+## Other
+Subtitle Pixels Extraction: A portion of the code is dedicated to creating a filter that selects the pixels that are in the subtitle.
+
+## Using this code
+
+This code was written in Google Colaboratory so it will be easiest to first run there. Some of the image files loaded from Google Drive  may not be publicly accessible; please email samrsabri@gmail.com if you encounter any issues.
+
 ## To do
 
-- Clean the code (will be done by end of November)
-- Add pictures of results (by mid-November)
+- Add pictures of results
