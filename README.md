@@ -2,6 +2,7 @@
 
 ## Intro
 Project conducted with: Anirudh Singh Shekhawat, Aishma Raghu, Michelle Sit.
+
 This project consists in:
 1) An implementation of Ulyanov et al's "Deep Image Prior" work (https://dmitryulyanov.github.io/deep_image_prior).
 2) An extension to transfer learning across images in inpainting
