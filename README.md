@@ -1,7 +1,7 @@
 # deep-image-prior-transfer
 
 ## Intro
-Project conducted with: Anirudh Singh Shekhawat, Aishma Raghu, Michelle Sit.
+Project conducted with: Anirudh Singh Shekhawat, Aishma Raghu, Michelle Sit for CSE 253 (Neural Networks for Pattern Recognition) with Prof. Gary Cottrell.
 
 This project consists in:
 1) An implementation of Ulyanov et al's "Deep Image Prior" work (https://dmitryulyanov.github.io/deep_image_prior).
