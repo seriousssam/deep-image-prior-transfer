@@ -7,6 +7,11 @@ This project consists in:
 1) An implementation of Ulyanov et al's "Deep Image Prior" work (https://dmitryulyanov.github.io/deep_image_prior).
 2) An extension to transfer learning across images in inpainting
 
+## Files
+  - The notebook
+  - A pdf of the notebook (since the notebook doesn't load in the browser)
+  - The pdf report in NIPS format
+
 ## Deep Image Prior
 Deep image prior is a convolutional neural network with a fixed input. The structure of the network functions as a prior for natural images; the network only trains on one image to complete an image enhancement task.
 
