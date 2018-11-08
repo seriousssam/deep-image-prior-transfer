@@ -7,6 +7,10 @@ This project consists in:
 1) An implementation of Ulyanov et al's "Deep Image Prior" work (https://dmitryulyanov.github.io/deep_image_prior).
 2) An extension to transfer learning across images in inpainting
 
+## To do
+
+- Add pictures of results
+
 ## Files
   - The notebook
   - A pdf of the notebook (since the notebook doesn't load in the browser)
@@ -34,7 +38,3 @@ Subtitle Pixels Extraction: A portion of the code is dedicated to creating a fil
 ## Using this code
 
 This code was written in Google Colaboratory so it will be easiest to first run there. Some of the image files loaded from Google Drive  may not be publicly accessible; please email samrsabri@gmail.com if you encounter any issues.
-
-## To do
-
-- Add pictures of results
