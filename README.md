@@ -9,7 +9,7 @@ This project consists in:
 
 ## To do
 
-- Add pictures of results
+- Add pictures of results (aiming to add by mid December)
 
 ## Files
   - The notebook
