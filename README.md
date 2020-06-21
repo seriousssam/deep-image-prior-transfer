@@ -7,10 +7,6 @@ This project consists in:
 1) An implementation of Ulyanov et al's "Deep Image Prior" work (https://dmitryulyanov.github.io/deep_image_prior).
 2) An extension to transfer learning across images in inpainting
 
-## To do
-
-- Add pictures of results (aiming to add by mid December)
-
 ## Files
   - The notebook
   - A pdf of the notebook (since the notebook doesn't load in the browser)
